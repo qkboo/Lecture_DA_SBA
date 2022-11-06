@@ -17,6 +17,10 @@
   1. [Google colab 사용(202209)](https://gist.github.com/qkboo/61ed5bb4bac2b24535a3fb5b220d33ff)
 
 
+### 2. Python
+
+  1. [Python Basic](notebooks/1-10Basic.ipynb)
+
 <br>
 
 ---
