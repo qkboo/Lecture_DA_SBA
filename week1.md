@@ -1,6 +1,6 @@
-# day1
+# Day1
 
-[고강태 강샤](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
+[고강태 강사](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
 
 ### 1. Computer Science
 
@@ -46,6 +46,7 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
 
 
 
+# Day2
 
 ### 2. Python
 
