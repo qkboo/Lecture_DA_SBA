@@ -1,5 +1,7 @@
 # day1
 
+[고강태 강샤](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
+
 ### 1. Computer Science
 
   1. 공유폴더: `01.ICT기술소개_컴퓨터구조_운영체제(2p).pdf`
