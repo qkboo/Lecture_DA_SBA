@@ -30,8 +30,10 @@
 # 참고
 1. 폰노이만 아키텍처
     - https://t1.daumcdn.net/cfile/tistory/2428C73B568D36FC3A
+2. 컴파일 단계
+    - https://t1.daumcdn.net/cfile/tistory/9901E4385C2880FA2E
  
-2. 활용분야
+4. 활용분야
   1. CRM: https://cdnsite.agilecrm.com/img/info-graphic.svg
   2. SCM: https://st4.depositphotos.com/13159112/21885/v/1600/depositphotos_218853972-stock-illustration-scm-supply-chain-management-concep.jpg
   3. ERP: https://leadersmt.net/wp-content/uploads/2021/09/erp-system.png
