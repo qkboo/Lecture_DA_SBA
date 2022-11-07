@@ -14,6 +14,7 @@
 
 공유폴더 : `교안1-03Python_Jupyter개발환경(202210).pdf`
 
+  1. [Windows Command 명령어](https://gist.github.com/qkboo/936f542a596c896534b642172bc0c583)
   1. [pyenv 버전 관리자 개발환경](https://gist.github.com/qkboo/f4017234490e1f3fb7326c3b5dfebf40)
   1. [Jupyter-lab 개발환경 이해](https://gist.github.com/qkboo/8f10b26dba2155e4eca5d50de37db0ec)
   1. [Google colab 사용(202209)](https://gist.github.com/qkboo/61ed5bb4bac2b24535a3fb5b220d33ff)
