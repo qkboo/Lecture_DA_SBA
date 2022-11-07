@@ -20,6 +20,33 @@
   1. [Google colab 사용(202209)](https://gist.github.com/qkboo/61ed5bb4bac2b24535a3fb5b220d33ff)
 
 
+<!--
+### jupyter lab 환경 시작:
+
+
+```bash
+qkboo@ ~$ conda create -n Lecture_Python python=3.10
+
+qkboo@ ~$ conda env list
+# conda environments:
+#
+base                  *  /Users/qkboo/.pyenv/versions/anaconda3-2022.05
+Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lecture_Python
+
+ qkboo@ ~$ conda activate Lecture_Python
+
+
+(Lecture_Python) qkboo@ ~$ conda install jupyterlab
+
+(Lecture_Python) qkboo@ ~$ mkdir Jupyter-Python
+
+(Lecture_Python) qkboo@ ~$ jupyter-lab --no-browser Jupyter-Python/
+```
+-->
+
+
+
+
 ### 2. Python
 
   1. [Python Basic](notebooks/1-10Basic.ipynb)
