@@ -50,6 +50,7 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
 
 ### 2. Python
 
+  1. [JupyterNotebook.ipynb](notebooks/1-01JupyterNotebook.ipynb)
   1. [Python Basic](notebooks/1-10Basic.ipynb)
 
 <br>
