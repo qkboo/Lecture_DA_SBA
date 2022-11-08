@@ -53,6 +53,22 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
   1. [JupyterNotebook.ipynb](notebooks/1-01JupyterNotebook.ipynb)
   1. [Python Basic](notebooks/1-10Basic.ipynb)
 
+#### "과제"
+
+1. pyenv-windows 제거
+2. Execution-Policy 확인
+3. pyenv-windows 설치
+4. python 3.10, python 3.9 설치
+5. global python 3.10 지정
+6. python 3.10 가상환경 1개
+7. python 3.9 가상환경 1개
+8. jupyterlab 설치
+9. 오늘 사용한 노트북 3.10 과 3.9 가상환경에서 실행
+
+
+![image](https://user-images.githubusercontent.com/1676624/200495655-fe2322f9-02b7-4b70-bfbe-36cac444585d.png)
+
+
 <br>
 
 ---
@@ -60,14 +76,19 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
 # 참고
 1. 폰노이만 아키텍처
     - https://t1.daumcdn.net/cfile/tistory/2428C73B568D36FC3A
+
 2. 컴파일 단계
     - https://t1.daumcdn.net/cfile/tistory/9901E4385C2880FA2E
  
-4. 활용분야
-  1. CRM: https://cdnsite.agilecrm.com/img/info-graphic.svg
-  2. SCM: https://st4.depositphotos.com/13159112/21885/v/1600/depositphotos_218853972-stock-illustration-scm-supply-chain-management-concep.jpg
-  3. ERP: https://leadersmt.net/wp-content/uploads/2021/09/erp-system.png
-  4. Big Data
-      - https://www.selecthub.com/wp-content/uploads/2020/03/BA-Life-Cycle-1024x1024.png
-      - https://www.saytekinc.com/img/big-data.png
+3. HTML & CSS
+    - https://www.w3schools.com/html/default.asp
+    - https://www.w3schools.com/css/default.asp
+  
+5. 활용분야
+    1. CRM: https://cdnsite.agilecrm.com/img/info-graphic.svg
+    2. SCM: https://st4.depositphotos.com/13159112/21885/v/1600/depositphotos_218853972-stock-illustration-scm-supply-chain-management-concep.jpg
+    3. ERP: https://leadersmt.net/wp-content/uploads/2021/09/erp-system.png
+    4. Big Data
+        - https://www.selecthub.com/wp-content/uploads/2020/03/BA-Life-Cycle-1024x1024.png
+        - https://www.saytekinc.com/img/big-data.png
 
