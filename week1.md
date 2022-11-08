@@ -1,3 +1,10 @@
+<!--
+# day3
+ - pyenv-windows 재설치 확인
+ - jupyter-lab 실행 확인.
+ - magic command
+-->
+
 # Day1
 
 [고강태 강사](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
