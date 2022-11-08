@@ -53,7 +53,7 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
   1. [JupyterNotebook.ipynb](notebooks/1-01JupyterNotebook.ipynb)
   1. [Python Basic](notebooks/1-10Basic.ipynb)
 
-#### "과제"
+#### day2 "과제"
 
 1. pyenv-windows 제거
 2. Execution-Policy 확인
@@ -64,9 +64,7 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
 7. python 3.9 가상환경 1개
 8. jupyterlab 설치
 9. 오늘 사용한 노트북 3.10 과 3.9 가상환경에서 실행
-
-
-![image](https://user-images.githubusercontent.com/1676624/200495655-fe2322f9-02b7-4b70-bfbe-36cac444585d.png)
+9. 각 가상환경 JUPYTERLAB 에서 마크다운 연습
 
 
 <br>
