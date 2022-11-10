@@ -50,9 +50,16 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
 
 ---
 
-# Day1
+# Day4 "과제"
 
-[고강태 강사](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
+다음 사이트 " 초보자를 위한 파이썬 300제" 에 있는 아래 챕터를  jupyter notebook 에 공부해서 
+
+1. [파이썬 변수](https://wikidocs.net/78551)
+1. [파이썬 논리식](https://wikidocs.net/7005)
+1. [파이썬 반복문](https://wikidocs.net/7006)
+
+과제 공유폴더의 오늘 날짜 `2022-11-10` 아래에 `20221101_이름.ipynb` 형태로 업로드 해주세요.
+
 
 # Day2
 
@@ -69,15 +76,11 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
 9. 오늘 사용한 노트북 3.10 과 3.9 가상환경에서 실행
 9. 각 가상환경 JUPYTERLAB 에서 마크다운 연습
 
-# Day3
 
-<!--
-# day3
- - pyenv-windows 재설치 확인
- - jupyter-lab 실행 확인.
- - magic command
--->
 
+# Day1
+
+[고강태 강사](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
 
 
 <br>
