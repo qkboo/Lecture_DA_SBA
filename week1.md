@@ -50,6 +50,18 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
 
 ---
 
+<!-- 
+# Day5 "과제"
+
+정올 파이썬 코더 /   형성평가 문제만
+
+ - 반복제어1  http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=py70
+ - 반복제어1 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=py80 
+ - 문자열 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=pya0
+ - 리스트3 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4346&sca=pyb0
+
+-->
+
 # Day4 "과제"
 
 다음 사이트 " 초보자를 위한 파이썬 300제" 에 있는 아래 챕터를  jupyter notebook 에 공부해서 
