@@ -1,3 +1,5 @@
+[고강태 강사](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
+
 # 1. Computer Science
 
   1. 공유폴더: `01.ICT기술소개_컴퓨터구조_운영체제(2p).pdf`
@@ -24,43 +26,31 @@
   2. [Python Sequences](notebooks/1-05Sequence_0.ipynb)
 
 
-<!--
-### jupyter lab 환경 시작:
-
-
-```bash
-qkboo@ ~$ conda create -n Lecture_Python python=3.10
-
-qkboo@ ~$ conda env list
-# conda environments:
-#
-base                  *  /Users/qkboo/.pyenv/versions/anaconda3-2022.05
-Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lecture_Python
-
- qkboo@ ~$ conda activate Lecture_Python
-
-
-(Lecture_Python) qkboo@ ~$ conda install jupyterlab
-
-(Lecture_Python) qkboo@ ~$ mkdir Jupyter-Python
-
-(Lecture_Python) qkboo@ ~$ jupyter-lab --no-browser Jupyter-Python/
-```
--->
-
 ---
 
-<!-- 
 # Day5 "과제"
 
-정올 파이썬 코더 /   형성평가 문제만
+1. 10명의 수학 점수를 입력받아 리스트 scores에 추가하고, 전체 점수의 합계와 평균을 내시오.
+ - 단 입력이 -1을 입력하면 종료한다.
+
+```
+scores = []
+```
+
+2. 정올 파이썬 코더 /   형성평가 문제에서 선택해서 실습해 주세요.
 
  - 반복제어1  http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=py70
- - 반복제어1 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=py80 
- - 문자열 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=pya0
- - 리스트3 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&wr_id=4346&sca=pyb0
+ - 반복제어2 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=py80 
+ - 문자열1 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=py40
+ - 문자열2 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=pya0
+ - 리스트2 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=pyb0
+ - 리스트3 http://www.jungol.co.kr/bbs/board.php?bo_table=pbank&sca=pyc0
 
--->
+
+쥬피터노트북에서 연습한 결과를 과제 공유폴더에 오늘 날짜 `2022-11-11` 아래에 `20221111_이름.ipynb` 형태로 업로드 해주세요.
+
+<BR>
+---
 
 # Day4 "과제"
 
@@ -73,9 +63,7 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
 과제 공유폴더의 오늘 날짜 `2022-11-10` 아래에 `20221101_이름.ipynb` 형태로 업로드 해주세요.
 
 
-# Day2
-
-#### day2 "과제"
+# Day2 "과제"
 
 1. pyenv-windows 제거
 2. Execution-Policy 확인
@@ -90,9 +78,6 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
 
 
 
-# Day1
-
-[고강태 강사](https://gist.github.com/qkboo/c3023b93f858f86809994e5656017e6c)
 
 
 <br>
@@ -117,4 +102,28 @@ Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lec
     4. Big Data
         - https://www.selecthub.com/wp-content/uploads/2020/03/BA-Life-Cycle-1024x1024.png
         - https://www.saytekinc.com/img/big-data.png
+
+<!--
+### jupyter lab 환경 시작:
+
+
+```bash
+qkboo@ ~$ conda create -n Lecture_Python python=3.10
+
+qkboo@ ~$ conda env list
+# conda environments:
+#
+base                  *  /Users/qkboo/.pyenv/versions/anaconda3-2022.05
+Lecture_Python           /Users/qkboo/.pyenv/versions/anaconda3-2022.05/envs/Lecture_Python
+
+ qkboo@ ~$ conda activate Lecture_Python
+
+
+(Lecture_Python) qkboo@ ~$ conda install jupyterlab
+
+(Lecture_Python) qkboo@ ~$ mkdir Jupyter-Python
+
+(Lecture_Python) qkboo@ ~$ jupyter-lab --no-browser Jupyter-Python/
+```
+-->
 
