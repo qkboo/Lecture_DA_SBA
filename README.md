@@ -11,7 +11,7 @@
 - 파이썬 기본 : 기본 데이터 형식,기본 연산, 함수
 - 파이썬 기본 - 모듈과 패키지, 커스텀 모듈 선언, 객체지향, 클래스, 클래스 상속
 
-# 2. Week2: 데이터 처리 / Http네트워크 / 크롤링
+# 2. [Week2: 데이터 처리 / Http네트워크 / 크롤링](week2.md)
 
 - File IO / Requests / Beautifulsoup
 - NumPy, Pandas, Matplotlib, Seaborn
