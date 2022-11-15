@@ -11,6 +11,10 @@
     - 실습 [Q-sequence실습.ipynb](notebooks/Q-sequence실습.ipynb)
 2. Python 파일
     - [Python File](notebooks/1-17File-0.ipynb)
+    - 참고:
+         - 파일: https://wikidocs.net/14593
+         - 텍스트 파일: https://wikidocs.net/15102
+         - 바이너리 파일: https://wikidocs.net/15101
 4. Python 함수/클래스
 5. Python 네트워크 (http)
 6. Crawling
