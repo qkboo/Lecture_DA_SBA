@@ -8,6 +8,7 @@
 
 1. Python 시퀀스
     - 실습 [Q-Guess_Number(random).ipynb](notebooks/Q-Guess_Number(random).ipynb)
+    - 실습 [Q-sequence실습.ipynb](notebooks/Q-sequence실습.ipynb)
 3. Python 함수/클래스
 4. Python 네트워크 (http)
 5. Crawling
