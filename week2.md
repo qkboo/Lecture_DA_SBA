@@ -16,6 +16,7 @@
          - 텍스트 파일: https://wikidocs.net/15102
          - 바이너리 파일: https://wikidocs.net/15101
     3. Python Modules
+         - 공유폴더 `Python교안2-모듈이란.pdf`
          - 모듈과 패키지 : https://wikidocs.net/15545
 
 
