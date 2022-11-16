@@ -22,7 +22,10 @@ Comprehensions 추가
 
 4. Python 함수/클래스
     1. 함수 [Function.ipynb](notebooks/1-06Function.ipynb)
-    2. Python Modules
+    2. 함수 데코레이터
+         - [Function_Decorator.ipynb](notebooks/1-06Function_Decorator.ipynb)
+         - 참고: https://wikidocs.net/84429
+    4. Python Modules
          - 공유폴더 `Python교안2-모듈이란.pdf`
          - 모듈과 패키지 : https://wikidocs.net/15545
 
