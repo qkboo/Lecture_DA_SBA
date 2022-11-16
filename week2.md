@@ -11,11 +11,12 @@
     - 실습 [Q-sequence실습.ipynb](notebooks/Q-sequence실습.ipynb)
 2. Python 파일
     1. [Python File](notebooks/1-17File-0.ipynb)
-    2. 참고:
+    2. 파일 참고:
          - 파일: https://wikidocs.net/14593
          - 텍스트 파일: https://wikidocs.net/15102
          - 바이너리 파일: https://wikidocs.net/15101
     3. Python Modules
+         - 모듈과 패키지 : https://wikidocs.net/15545
 
 
 <!-- 
