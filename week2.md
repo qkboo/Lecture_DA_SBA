@@ -15,18 +15,17 @@
          - 파일: https://wikidocs.net/14593
          - 텍스트 파일: https://wikidocs.net/15102
          - 바이너리 파일: https://wikidocs.net/15101
-    3. Python Modules
-         - 공유폴더 `Python교안2-모듈이란.pdf`
-         - 모듈과 패키지 : https://wikidocs.net/15545
-
-
 <!-- 
 Comprehensions 추가
 -->
 
 4. Python 함수/클래스
     1. 함수 [Function.ipynb](notebooks/1-06Function.ipynb)
-    
+    2. Python Modules
+         - 공유폴더 `Python교안2-모듈이란.pdf`
+         - 모듈과 패키지 : https://wikidocs.net/15545
+
+
 6. Python 네트워크 (http)
 7. Crawling
 8. git / github / gitpages
