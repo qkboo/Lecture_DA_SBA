@@ -16,9 +16,6 @@
          - 텍스트 파일: https://wikidocs.net/15102
          - 바이너리 파일: https://wikidocs.net/15101
          - 디렉토리: https://wikidocs.net/14682
-<!-- 
-Comprehensions 추가
--->
 
 4. Python 함수/클래스
     1. 함수 [Function.ipynb](notebooks/1-06Function.ipynb)
@@ -29,6 +26,10 @@ Comprehensions 추가
          - 공유폴더 `Python교안2-모듈이란.pdf`
          - 모듈과 패키지 : https://wikidocs.net/15545
 
+<!-- 
+1. Comprehensions 추가
+2. lambda, map 등 연결 예제
+-->
 
 6. Python 네트워크 (http)
 7. Crawling
