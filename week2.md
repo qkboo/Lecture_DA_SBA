@@ -26,11 +26,9 @@
     4. Python Modules
          - 공유폴더 `Python교안2-모듈이란.pdf`
          - 모듈과 패키지 : https://wikidocs.net/15545
+    4. Python Class
+         - [Python Class](notebooks/1-07Class_0.ipynb)
 
-<!-- 
-1. Comprehensions 추가
-2. lambda, map 등 연결 예제
--->
 
 6. Python 네트워크 (http)
 7. Crawling
@@ -48,6 +46,11 @@
 
 
 ---
+<!-- 과제
+1. Comprehensions 추가
+-->
+
+
 # 11/16 과제
 
 ## "실습" Jupyter 디렉토리의 ipynb 파일의 단어수를 세는 프로그램.
