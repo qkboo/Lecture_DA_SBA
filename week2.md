@@ -19,7 +19,8 @@
 
 4. Python 함수/클래스
     1. 함수 [Function.ipynb](notebooks/1-06Function.ipynb)
-    2. 함수 데코레이터
+         - lambda & map : https://wikidocs.net/64
+    3. 함수 데코레이터
          - [Function_Decorator.ipynb](notebooks/1-06Function_Decorator.ipynb)
          - 참고: https://wikidocs.net/84429
     4. Python Modules
