@@ -45,3 +45,13 @@ Comprehensions 추가
           - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
 
 
+---
+<!-- 
+# 11/16 과제
+
+## "실습" 홈디렉토리의 Text file 의 단어수를 세는 프로그램.
+ - 텍스트 파일 여부: 'python check if file is text or binary'
+ - https://stackoverflow.com/questions/898669/how-can-i-detect-if-a-file-is-binary-non-text-in-python
+ - `파일명 : 단어수` 형식 출력
+
+-->
