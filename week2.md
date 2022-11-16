@@ -15,6 +15,7 @@
          - 파일: https://wikidocs.net/14593
          - 텍스트 파일: https://wikidocs.net/15102
          - 바이너리 파일: https://wikidocs.net/15101
+         - 디렉토리: https://wikidocs.net/14682
 <!-- 
 Comprehensions 추가
 -->
