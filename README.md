@@ -13,8 +13,11 @@
 
 # 2. [Week2: 데이터 처리 / Http네트워크 / 크롤링](week2.md)
 
+- Function / Deocrator / Module
 - File IO / Requests / Beautifulsoup
 - NumPy, Pandas, Matplotlib, Seaborn
+- git
+
 
 # 3. 데이터 분석 / 텍스트 마이닝
 
