@@ -30,6 +30,10 @@
          - [Python Class](notebooks/1-07Class_0.ipynb)
 
 
+5. 개발환경 재구성
+    - 기존 Second_day 설치 목록을 백업
+    - 네트워크용 Jupyter_Network 가상환경 생성
+         - Python 3.10
 6. Python 네트워크 (http)
 7. Crawling
 8. git / github / gitpages
