@@ -25,6 +25,7 @@
          - 참고: https://wikidocs.net/84429
     4. Python Modules
          - 공유폴더 `Python교안2-모듈이란.pdf`
+            - 강의 파일: [Module.ipynb](notebooks/Module.ipynb)
          - 모듈과 패키지 : https://wikidocs.net/15545
     4. Python Class
          - [Python Class](notebooks/1-07Class_0.ipynb)
