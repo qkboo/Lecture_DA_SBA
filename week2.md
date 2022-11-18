@@ -35,6 +35,8 @@
     - 기존 Second_day 설치 목록을 백업
     - 네트워크용 Jupyter_Network 가상환경 생성
          - Python 3.10
+
+
 6. Python 네트워크 (http)
 7. Crawling
 8. git / github / gitpages
@@ -51,8 +53,19 @@
 
 
 ---
-<!-- 과제
-1. Comprehensions 추가
+<!-- # 11/18일 과제
+1. 문자열 복습/함수 사용
+    - https://wikidocs.net/13
+    - https://rfriend.tistory.com/327
+    - https://wikidocs.net/21119
+    - 연습 https://wikidocs.net/78552
+
+2. 컴프리헨션 학습 https://wikidocs.net/22795
+
+2. github pages
+
+템플릿 선택 방법: https://excited-hyun.tistory.com/51
+
 -->
 
 # 11/18일 프로젝트
