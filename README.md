@@ -8,25 +8,29 @@
 - 윈도우즈 WSL기반 파이썬 개발환경 / 리눅스 Shell 사용
 - Visual Studio Code 사용, Jupyter Notebook 이해, Markdown 사용
 - 파이썬 기본 : 변수와 객체, 조건문/반복문
-- 파이썬 기본 : 기본 데이터 형식,기본 연산, 함수
-- 파이썬 기본 - 모듈과 패키지, 커스텀 모듈 선언, 객체지향, 클래스, 클래스 상속
 
-# 2. [Week2: 데이터 처리 / Http네트워크 / 크롤링](week2.md)
+# 2. [Week2: 파이썬2](week2.md)
 
-- Function / Deocrator / Module
-- File IO / Requests / Beautifulsoup
+- 파일 / Module Package
+- 객체지향, 클래스, 클래스 상속
+- Function / Deocorator
+- 프로젝트
+
+# 3. [Week3: Http네트워크 / 크롤링 / 데이터 처리 ](!week3.md)
+
+- HTTP / HTML / CSS / MIME Type
+- Urllib / Requests / Beautifulsoup
 - NumPy, Pandas, Matplotlib, Seaborn
-- git
 
 
-# 3. 데이터 분석 / 텍스트 마이닝
+# 4. 데이터 분석 / 텍스트 마이닝
 
 - 기본 Database : MySQL, SQLite
 - 공공데이터 구축
 - 공공데이터 분석
 
 
-# 4. 서울시 공공데이터 기반 분석
+# 5. 서울시 공공데이터 기반 분석 프로젝트
  - 개인별 공공데이터 활용
 
 
