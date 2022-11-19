@@ -8,9 +8,17 @@
 3. Crawling
 
 <!--
-HTTP / HTML / CSS / MIME Type
+1. Web 기본
+   - HTTP / HTML / CSS / MIME Type
 
-flask 웹 서버
+2. Image module: Pillow
+
+2. Web Clawring
+ - urllib 
+     - txt, html, csv 다운로드
+  
+ - requests
+
 
 Urllib / Requests / Beautifulsoup
 NumPy, Pandas, Matplotlib, Seaborn
