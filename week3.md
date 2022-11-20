@@ -8,13 +8,17 @@
 3. Crawling
 
 <!--
+1. 프로그램 작성 예시
+
+2. 컴프리헨션
+
 1. Web 기본
    - HTTP / HTML / CSS / MIME Type
 
 2. Image module: Pillow
 
 2. Web Clawring
- - urllib 
+ - requests 
      - txt, html, csv 다운로드
   
  - requests
