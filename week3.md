@@ -22,6 +22,12 @@
 
 # 3. 정규표현식
 
+# 4. NumPy, Pandas
+
+# 5. Matplotlib, Seaborn, Plotly
+
+# 6. 지도: Follium
+
 <!--
 - Image module: Pillow
 - NumPy, Pandas, Matplotlib, Seaborn
