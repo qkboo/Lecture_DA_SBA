@@ -15,14 +15,14 @@
 
 1. Web 기본
    - HTTP / HTML / CSS / MIME Type
+
 2. Python 네트워크 (http)
-   - requests 모듈
-   - Beautifulsoup 모듈
+   - requests 모듈: [데이터크롤링1-02requests.ipynb](notebooks/데이터크롤링1-02requests.ipynb)
+   - Beautifulsoup 모듈: [데이터크롤링1-03BS4_Start.ipynb](notebooks/데이터크롤링1-03BS4_Start.ipynb)
 
 # 3. 정규표현식
 
 <!--
-
-2. Image module: Pillow
-NumPy, Pandas, Matplotlib, Seaborn
+- Image module: Pillow
+- NumPy, Pandas, Matplotlib, Seaborn
 -->
