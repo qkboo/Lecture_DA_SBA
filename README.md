@@ -1,7 +1,7 @@
 # AI 엔지니어 부트캠프
 
 
-# 1. [Week1: 파이썬 과 개발환경](week1.md)
+# [Week1: 파이썬 과 개발환경](week1.md)
 
 - 빅데이터와 AI 개발 소개, 컴퓨터 구조 이해, 개발환경 이해 (OS와 SDK), 
 - 파이썬 개발환경/설치/쥬피터노트북/윈도우즈 파이썬 가상 개발환경 이해
@@ -9,28 +9,28 @@
 - Visual Studio Code 사용, Jupyter Notebook 이해, Markdown 사용
 - 파이썬 기본 : 변수와 객체, 조건문/반복문
 
-# 2. [Week2: 파이썬2](week2.md)
+# [Week2: 파이썬2](week2.md)
 
 - 파일 / Module Package
 - 객체지향, 클래스, 클래스 상속
 - Function / Deocorator
 - 프로젝트
 
-# 3. [Week3: Http네트워크 / 크롤링 / 데이터 처리 ](!week3.md)
+# [Week3: Http네트워크 / 크롤링 / 데이터 처리 ](week3.md)
 
 - HTTP / HTML / CSS / MIME Type
-- Urllib / Requests / Beautifulsoup
+- Requests / Beautifulsoup / Selenium
 - NumPy, Pandas, Matplotlib, Seaborn
 
 
-# 4. 데이터 분석 / 텍스트 마이닝
+# Week4: 데이터 분석 / 텍스트 마이닝
 
 - 기본 Database : MySQL, SQLite
 - 공공데이터 구축
 - 공공데이터 분석
 
 
-# 5. 서울시 공공데이터 기반 분석 프로젝트
+# Week5: 서울시 공공데이터 기반 분석 프로젝트
  - 개인별 공공데이터 활용
 
 
