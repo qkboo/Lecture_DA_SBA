@@ -26,6 +26,10 @@ CSV 파일 읽고/쓰기:
    - Sample file:
        - https://github.com/UCLSPP/datasets/blob/master/data/Credit.csv
 
+JSON 파일 읽고/쓰기:
+    - https://wikidocs.net/67980
+    - json 쓰기: https://wikidocs.net/126088
+
 
 <!--
 실습과제: 데이터크롤링ex-네이버뉴스(csv).ipynb
