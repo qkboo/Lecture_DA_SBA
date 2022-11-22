@@ -15,10 +15,17 @@
 
 1. Web 기본
    - HTTP / HTML / CSS / MIME Type
-
+   - 강의중 노트: [Webcrawling_HTTP_HTML.ipynb](notebooks/Webcrawling_HTTP_HTML.ipynb)
 2. Python 네트워크 (http)
    - requests 모듈: [데이터크롤링1-02requests.ipynb](notebooks/데이터크롤링1-02requests.ipynb)
    - Beautifulsoup 모듈: [데이터크롤링1-03BS4_Start.ipynb](notebooks/데이터크롤링1-03BS4_Start.ipynb)
+
+CSV 파일 읽고/쓰기:
+   - https://docs.python.org/ko/3/library/csv.html
+   - https://wikidocs.net/80822
+   - Sample file:
+       - https://github.com/UCLSPP/datasets/blob/master/data/Credit.csv
+
 
 # 3. 정규표현식
 
