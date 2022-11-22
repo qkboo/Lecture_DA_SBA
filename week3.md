@@ -19,6 +19,8 @@
 2. Python 네트워크 (http)
    - requests 모듈: [데이터크롤링1-02requests.ipynb](notebooks/데이터크롤링1-02requests.ipynb)
    - Beautifulsoup 모듈: [데이터크롤링1-03BS4_Start.ipynb](notebooks/데이터크롤링1-03BS4_Start.ipynb)
+   - 수업중 실습: 네이버 영화랭킹 날짜별 출력 [실습_크롤링_영화랭킹_1122.md](notebooks/실습_크롤링_영화랭킹_1122.md)
+
 
 CSV 파일 읽고/쓰기:
    - https://docs.python.org/ko/3/library/csv.html
