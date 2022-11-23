@@ -58,18 +58,15 @@ JSON 파일 읽고/쓰기:
 
 
 # 4. Numpy 와 Pandas
-   - KRX
+   1. [NumPy](notebooks/2-01NumPy1-Tutorial_0.ipynb)
+   2. [Pandas Series](notebooks/2-04Pandas_Series-0.ipynb)
+   3. [Pandas Dataframe](notebooks/2-05Pandas_DataFrame-0.ipynb)
+   4. "실습": KRX 주식시세 크롤링
+   5. 시각화 도구: Matplotlib, Seaborn, Plotly
 
 
-<!--
-실습과제: 데이터크롤링ex-네이버뉴스(csv).ipynb
--->
+# 5. 정규표현식
 
-# 3. 정규표현식
-
-# 4. NumPy, Pandas
-
-# 5. Matplotlib, Seaborn, Plotly
 
 # 6. 지도: Follium
 
