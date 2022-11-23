@@ -33,6 +33,20 @@ JSON 파일 읽고/쓰기:
    - https://wikidocs.net/67980 
    - json 쓰기: https://wikidocs.net/126088
 
+### "실습1" 네이버 상영자/예정작 크롤링 결과 csv 저장
+
+1. 제목 / { 네티즌 평점/참여 인원 } / {기자 평점 / 인원 } / 감독 / 출연진 / 개봉일
+1. `함수` 적용해 보세요
+1. **완료시** 과제폴더 오늘날자에 `이름_영화상영작_csv.ipynb` 형식으로 업로드.
+
+
+### "실습2" 영화랭킹의 5개 날짜 페이지 파싱한 결과 CSV 저장
+ - **완료시** 과제폴더 오늘날자에 `이름_영화랭킹_csv.ipynb` 형식으로 업로드.
+ - 현재 랭킹 페이지: https://movie.naver.com/movie/sdb/rank/rmovie.naver
+ - 이전 날짜 랭킹 페이지 : https://movie.naver.com/movie/sdb/rank/rmovie.naver?sel=cnt&tg=0&date=20221120
+     - `URL?date=yyyymmdd` 형식
+
+
 4. 크롤링 실습
    - 네이버 뉴스: [데이터크롤링ex-네이버뉴스(csv)](notebooks/데이터크롤링ex-네이버뉴스(csv).ipynb)
    - 워드클라우드
