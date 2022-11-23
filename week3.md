@@ -48,10 +48,16 @@ JSON 파일 읽고/쓰기:
      - `URL?date=yyyymmdd` 형식
 
 
-4. 크롤링 실습
+## 4. 크롤링 실습
    - 네이버 증권: [데이터크롤링ex네이버_KOSPI200](notebooks/데이터크롤링ex네이버_KOSPI200_0.ipynb)
    - 네이버 뉴스: [데이터크롤링ex-네이버뉴스(csv)](notebooks/데이터크롤링ex-네이버뉴스(csv).ipynb)
    - "실습": 함수 이용 클롤링 코드 수정.
+
+
+### "과제" 멜론
+   - 멜론 최신 100곡 크롤링: 'https://www.melon.com/chart/index.htm'
+
+
 
 # 3. Open API 사용
    1. 네이버 Open API: 검색 / 블로그 등...
