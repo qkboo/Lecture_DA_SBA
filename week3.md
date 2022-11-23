@@ -21,6 +21,7 @@
    - Beautifulsoup 모듈: [데이터크롤링1-03BS4_Start.ipynb](notebooks/데이터크롤링1-03BS4_Start.ipynb)
    - 수업중 실습: 네이버 영화랭킹 날짜별 출력 [실습_크롤링_영화랭킹_1122.md](notebooks/실습_크롤링_영화랭킹_1122.md)
 
+3. 파일 저장
 
 CSV 파일 읽고/쓰기:
    - https://docs.python.org/ko/3/library/csv.html
@@ -29,8 +30,17 @@ CSV 파일 읽고/쓰기:
        - https://github.com/UCLSPP/datasets/blob/master/data/Credit.csv
 
 JSON 파일 읽고/쓰기:
-    - https://wikidocs.net/67980
-    - json 쓰기: https://wikidocs.net/126088
+   - https://wikidocs.net/67980 
+   - json 쓰기: https://wikidocs.net/126088
+
+4. 크롤링 실습
+   - 네이버 증권
+   - KRX
+
+
+# 3. Open API 사용
+   1. 네이버 Open API
+   2. 공공데이터 Open API
 
 
 <!--
