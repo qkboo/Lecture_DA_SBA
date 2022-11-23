@@ -49,12 +49,12 @@ JSON 파일 읽고/쓰기:
 
 4. 크롤링 실습
    - 네이버 뉴스: [데이터크롤링ex-네이버뉴스(csv)](notebooks/데이터크롤링ex-네이버뉴스(csv).ipynb)
-   - 워드클라우드
-
+   - "실습": 함수 이용 클롤링 코드 수정.
 
 # 3. Open API 사용
-   1. 네이버 Open API
-   2. 공공데이터 Open API
+   1. 네이버 Open API: 검색 / 블로그 등...
+   2. 공공데이터 Open API: data.go.kr
+        - requests 이용 POST 방식
 
 
 # 4. Numpy 와 Pandas
@@ -62,6 +62,7 @@ JSON 파일 읽고/쓰기:
    2. [Pandas Series](notebooks/2-04Pandas_Series-0.ipynb)
    3. [Pandas Dataframe](notebooks/2-05Pandas_DataFrame-0.ipynb)
    4. "실습": KRX 주식시세 크롤링
+        - requests 이용 POST 방식
    5. 시각화 도구: Matplotlib, Seaborn, Plotly
 
 
