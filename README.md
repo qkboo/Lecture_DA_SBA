@@ -52,7 +52,7 @@
 
 
 3. github 활용 취업
- 
+    - [깃허브 프로필 꾸미기](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
     - [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
     - [(특강) 깃허브로 취업하기](https://dataitgirls2.github.io/tutorial/Tutorial_180803_GettingJobGithub.html)
     - [주니어 개발자를 위한 취업 정보](https://github.com/jojoldu/junior-recruit-scheduler)
