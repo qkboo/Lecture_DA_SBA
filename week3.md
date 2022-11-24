@@ -63,10 +63,15 @@ JSON 파일 읽고/쓰기:
 
 
 # 3. Open API 사용
-   1. 네이버 Open API: 검색 / 블로그 등...
-   2. 공공데이터 Open API: data.go.kr
-        - requests 이용 POST 방식
-
+   1. 공유폴더
+       - `핀테크2-01REST_API사용202211.pdf`
+   2. 네이버 Open API: 검색 / 블로그 등...
+       - requests 이용 POST 방식
+   3. 공공데이터 Open API: data.go.kr
+       - requests 이용 POST 방식
+   4. 금융 API
+       - `핀테크2-02OpenBanking-202211.pdf`
+       - [오픈뱅킹-NH.ipynb](notebooks/오픈뱅킹-NH.ipynb)
 
 # 4. Numpy 와 Pandas
    1. [NumPy](notebooks/2-01NumPy1-Tutorial_0.ipynb)
