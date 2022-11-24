@@ -1,5 +1,6 @@
 # AI 엔지니어 부트캠프
 
+<img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png'>
 
 # [Week1: 파이썬 과 개발환경](week1.md)
 
