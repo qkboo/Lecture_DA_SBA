@@ -67,10 +67,10 @@ JSON 파일 읽고/쓰기:
 
 # 4. Numpy 와 Pandas
    1. [NumPy](notebooks/2-01NumPy1-Tutorial_0.ipynb)
-   2. [Pandas Series](notebooks/2-04Pandas_Series-0.ipynb)
-   3. [Pandas Dataframe](notebooks/2-05Pandas_DataFrame-0.ipynb)
-
-   4. 외부자료 실습:
+   2. [NumPy 기본연산](notebooks/2-01NumPy2-Op.ipynb)
+   3. [Pandas Series](notebooks/2-04Pandas_Series-0.ipynb)
+   4. [Pandas Dataframe](notebooks/2-05Pandas_DataFrame-0.ipynb)
+   5. 외부자료 실습:
        - [2-Pandas_외부자료_data.zip](notebooks/2-Pandas_외부자료_data.zip)
        - [2-Pandas_외부자료.ipynb](notebooks/2-Pandas_외부자료.ipynb)
 
