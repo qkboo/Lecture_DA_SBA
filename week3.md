@@ -71,7 +71,7 @@ JSON 파일 읽고/쓰기:
    3. [Pandas Series](notebooks/2-04Pandas_Series-0.ipynb)
    4. [Pandas Dataframe](notebooks/2-05Pandas_DataFrame-0.ipynb)
    5. 외부자료 실습:
-       - [2-Pandas_외부자료_data.zip](notebooks/2-Pandas_외부자료_data.zip)
+       - [2-Pandas_외부자료_data.zip](notebooks/2-Pandas_외부자료_data.zip)
        - [2-Pandas_외부자료.ipynb](notebooks/2-Pandas_외부자료.ipynb)
 
    5. "실습": KRX 주식시세 크롤링
