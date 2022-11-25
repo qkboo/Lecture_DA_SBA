@@ -69,9 +69,14 @@ JSON 파일 읽고/쓰기:
    1. [NumPy](notebooks/2-01NumPy1-Tutorial_0.ipynb)
    2. [Pandas Series](notebooks/2-04Pandas_Series-0.ipynb)
    3. [Pandas Dataframe](notebooks/2-05Pandas_DataFrame-0.ipynb)
-   4. "실습": KRX 주식시세 크롤링
+
+   4. 외부자료 실습:
+       - [2-Pandas_외부자료_data.zip](notebooks/2-Pandas_외부자료_data.zip)
+       - [2-Pandas_외부자료.ipynb](notebooks/2-Pandas_외부자료.ipynb)
+
+   5. "실습": KRX 주식시세 크롤링
         - requests 이용 POST 방식
-   5. 시각화 도구: Matplotlib, Seaborn, Plotly
+   6. 시각화 도구: Matplotlib, Seaborn, Plotly
 
 
 ---
