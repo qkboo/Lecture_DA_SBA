@@ -7,9 +7,6 @@
 
 ---
 
-# 1. 컴프리헨션
-
-  - 컴프리헨션 학습 https://wikidocs.net/22795
 
 # 2. Crawling
 
