@@ -24,9 +24,9 @@
 - NumPy, Pandas, Matplotlib, Seaborn
 
 
-# Week4: 데이터 분석 / 텍스트 마이닝
+# [Week4: 데이터 분석 / 텍스트 마이닝](week4.md)
 
-- 기본 Database : MySQL, SQLite
+- NumPy, Pandas, Matplotlib, Seaborn
 - 공공데이터 구축
 - 공공데이터 분석
 
