@@ -16,6 +16,16 @@
      - [2-Pandas_외부자료_data.zip](notebooks/2-Pandas_외부자료_data.zip)
      - [2-Pandas_외부자료.ipynb](notebooks/2-Pandas_외부자료.ipynb)
 
+# 3. 가시화
+
+1. "실습" Selenium 이용 클롤링과 데이터 수집
+1. matplotlib
+2. seaborn
+3. plotly
+4. follium
+
+
+
 # "실습"
     1. KRX 주식시세 크롤링
         - requests 이용 POST 방식
