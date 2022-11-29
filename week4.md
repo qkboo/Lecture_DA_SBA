@@ -26,7 +26,7 @@
 1. [matplotlib](notebooks/2-가시화1-Matplotlib.ipynb)
 2. [seaborn](notebooks/2-가시화2-Seaborn.ipynb)
 3. [plotly](notebooks/2-가시화3-Plotly.ipynb)
-4. follium
+4. Wordcloud: https://pinkwink.kr/1029
 
 
 
