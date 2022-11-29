@@ -42,7 +42,13 @@
     - source & data: [Teaching_in_GrowthHackers/Session 03. EDA & Data Visualization](https://github.com/BokyungChoi/teaching_in_GrowthHackers/tree/master/Session%2003.%20EDA%20%26%20Data%20Visualization)
 
 
+## "11/29"일 과제
 
+학습한 아래 2가지 예제를 seaborn / pandas 학습한 내용을 과제폴더에 `날짜_이름.IPYNB` 형태로 업로드
+ - 서울시 CCTV 분석
+ - 초심자를-위한-데이터-시각화 EDA
+
+---
 # 5. 간단한 EDA
 - [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
 - 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
