@@ -30,7 +30,7 @@
 
 
 
-# "실습"
+# 4. "실습"
 1. 실습:
     - https://github.com/PinkWink/DataScience/
     - 서울시 CCTV 분석: [서울시 구별 CCTV 현황 분석하기](https://github.com/PinkWink/DataScience/blob/master/source_code/01.%20Basic%20of%20Python%2C%20Pandas%20and%20Matplotlib%20%20via%20analysis%20of%20CCTV%20in%20Seoul.ipynb)
@@ -41,11 +41,40 @@
 6. 실습: 네이버영화랭킹 크롤링 결과 분석
  - 참고: https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
 
--->
-
 3. "실습" Selenium 이용 클롤링과 데이터 수집
 4. KRX 주식시세 크롤링
     - requests 이용 POST 방식
+-->
+
+
+
+# 5. 텍스트 마이닝
+
+## 텍스트 마이닝 환경
+
+`텍스트마이닝1-01-Text_Mining.pdf`
+ 
+## 자연어 처리 기술 개요 & 이해
+
+1. [텍스트마이닝1-01자연어처리기술개요.ipynb](!notebooks/텍스트마이닝1-01자연어처리기술1-개요.ipynb)
+2. [텍스트마이닝1-02자연어처리기술이해.ipynb](!notebooks/텍스트마이닝1-02자연어처리기술2-이해.ipynb)
+3. [텍스트마이닝1-03자연어처리기술3-단어수 세기.ipynb](!notebooks/텍스트마이닝1-03자연어처리기술3-단어수세기.ipynb)
+
+## NLTK & KoNLPy
+
+1. [텍스트마이닝2-01자연어텍스트처리(NLTK).ipynb](!notebooks/텍스트마이닝2-01자연어텍스트처리(NLTK).ipynb)
+2. [텍스트마이닝2-02한국어텍스트처리(KoNLPy).ipynb](!notebooks/텍스트마이닝2-02한국어텍스트처리(KoNLPy).ipynb)
+3. [텍스트마이닝2-03한국어텍스트처리_어려운이유.ipynb](!notebooks/텍스트마이닝2-03한국어텍스트처리_어려운이유.ipynb)
+
+
+## 텍스트 처리 실습
+
+1. ex 텍스트 파일 이용 빈도 분석:
+   - [정규표현식-simple.ipynb](!notebooks/정규표현식-simple.ipynb)
+   - [텍스트마이닝2-04ex텍스트처리-0.ipynb](!notebooks/텍스트마이닝2-04ex텍스트처리-0.ipynb)
+
+3. 크롤링 이용 빈도 분석:
+   - [텍스트마이닝1-05ex연설문_경제뉴스크롤링.ipynb](!notebooks/텍스트마이닝2-05ex연설문_경제뉴스-빈도분석.ipynb)
 
 
 ---
