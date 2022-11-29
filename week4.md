@@ -18,7 +18,8 @@
 5. 실습:
     - https://github.com/PinkWink/DataScience/
     - 서울시 CCTV 분석: [서울시 구별 CCTV 현황 분석하기](https://github.com/PinkWink/DataScience/blob/master/source_code/01.%20Basic%20of%20Python%2C%20Pandas%20and%20Matplotlib%20%20via%20analysis%20of%20CCTV%20in%20Seoul.ipynb)
-    - data: [01. CCTV_in_Seoul.csv](https://github.com/PinkWink/DataScience/blob/master/data/01.%20CCTV_in_Seoul.csv)
+    - [01. CCTV_in_Seoul.csv](https://github.com/PinkWink/DataScience/blob/master/data/01.%20CCTV_in_Seoul.csv)
+    - [01. population_in_Seoul.xls](https://github.com/PinkWink/DataScience/blob/master/data/01.%20population_in_Seoul.xls)
 
 # 3. 가시화
 
