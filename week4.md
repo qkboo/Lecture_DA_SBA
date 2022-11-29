@@ -41,6 +41,10 @@
     - [초심자를-위한-데이터-시각화 EDA](https://medium.com/bondata/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-eda-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%8B%A4%EC%8A%B5-62d11f93e17e)
     - source & data: [Teaching_in_GrowthHackers/Session 03. EDA & Data Visualization](https://github.com/BokyungChoi/teaching_in_GrowthHackers/tree/master/Session%2003.%20EDA%20%26%20Data%20Visualization)
 
+# 5. 간단한 EDA
+- [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
+- 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
+
 <!--
 6. 실습: 네이버영화랭킹 크롤링 결과 분석
  - 참고: https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
