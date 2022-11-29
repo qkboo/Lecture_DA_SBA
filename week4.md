@@ -15,11 +15,8 @@
 4. 외부자료 실습:
     - [2-Pandas_외부자료_data.zip](notebooks/2-Pandas_외부자료_data.zip)
     - [2-Pandas_외부자료.ipynb](notebooks/2-Pandas_외부자료.ipynb)
-5. 실습:
-    - https://github.com/PinkWink/DataScience/
-    - 서울시 CCTV 분석: [서울시 구별 CCTV 현황 분석하기](https://github.com/PinkWink/DataScience/blob/master/source_code/01.%20Basic%20of%20Python%2C%20Pandas%20and%20Matplotlib%20%20via%20analysis%20of%20CCTV%20in%20Seoul.ipynb)
-    - [01. CCTV_in_Seoul.csv](https://github.com/PinkWink/DataScience/blob/master/data/01.%20CCTV_in_Seoul.csv)
-    - [01. population_in_Seoul.xls](https://github.com/PinkWink/DataScience/blob/master/data/01.%20population_in_Seoul.xls)
+
+
 
 # 3. 가시화
 
@@ -34,11 +31,21 @@
 
 
 # "실습"
+1. 실습:
+    - https://github.com/PinkWink/DataScience/
+    - 서울시 CCTV 분석: [서울시 구별 CCTV 현황 분석하기](https://github.com/PinkWink/DataScience/blob/master/source_code/01.%20Basic%20of%20Python%2C%20Pandas%20and%20Matplotlib%20%20via%20analysis%20of%20CCTV%20in%20Seoul.ipynb)
+    - [01. CCTV_in_Seoul.csv](https://github.com/PinkWink/DataScience/blob/master/data/01.%20CCTV_in_Seoul.csv)
+    - [01. population_in_Seoul.xls](https://github.com/PinkWink/DataScience/blob/master/data/01.%20population_in_Seoul.xls)
 
-1. "실습" Selenium 이용 클롤링과 데이터 수집
-1. KRX 주식시세 크롤링
+<!--
+6. 실습: 네이버영화랭킹 크롤링 결과 분석
+ - 참고: https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
+
+-->
+
+3. "실습" Selenium 이용 클롤링과 데이터 수집
+4. KRX 주식시세 크롤링
     - requests 이용 POST 방식
-1. 시각화 도구: Matplotlib, Seaborn, Plotly
 
 
 ---
