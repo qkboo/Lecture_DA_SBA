@@ -48,20 +48,17 @@
    <!--       - [2-Pandas-연습_튜토리얼_01_43_A.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43_A.ipynb)
        - [2-Pandas-연습-시각화matplot-20_A.ipynb](notebooks/2-Pandas-연습-시각화matplot-20_A.ipynb) -->
 
-
-## "11/29"일 과제
-
-학습한 아래 2가지 예제를 seaborn / pandas 학습한 내용을 과제폴더 `2022-11-29` 에 `날짜_이름.IPYNB` 형태로 업로드
- - 서울시 CCTV 분석
- - 초심자를-위한-데이터-시각화 EDA
- - ***기프트콘** 있습니다.
-
----
 # 5. 간단한 EDA
 - [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
 - 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
 - 아래 *네이버 영화 평점변화* 분석을 이용해서 현재 크롤링한 네이버 영화 평점에 적용해 보세요
     - https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
+
+
+# 6. Selenium
+
+데이터크롤링5-Selenium1-start_0.ipynb
+
 
 <!--
 6. 실습: 네이버영화랭킹 크롤링 결과 분석
@@ -71,6 +68,16 @@
 4. KRX 주식시세 크롤링
     - requests 이용 POST 방식
 -->
+
+
+## "11/29"일 과제
+
+학습한 아래 2가지 예제를 seaborn / pandas 학습한 내용을 과제폴더 `2022-11-29` 에 `날짜_이름.IPYNB` 형태로 업로드
+ - 서울시 CCTV 분석
+ - 초심자를-위한-데이터-시각화 EDA
+ - ***기프트콘** 있습니다.
+
+---
 
 
 
