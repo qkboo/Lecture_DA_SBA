@@ -42,12 +42,13 @@
     - source & data: [Teaching_in_GrowthHackers/Session 03. EDA & Data Visualization](https://github.com/BokyungChoi/teaching_in_GrowthHackers/tree/master/Session%2003.%20EDA%20%26%20Data%20Visualization)
 
 3. Pandas & Matplotlib 연습
-   - [2-Pandas-연습_튜토리얼 1~20](notebooks/2-Pandas-연습_튜토리얼_19Q.ipynb)
-   - [2-Pandas-연습_튜토리얼_21~43](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb.ipynb)
-   - [2-Pandas-연습-시각화matplot-20.ipynb](notebooks/2-Pandas-연습-시각화matplot-20Q.ipynb)
+   1. [2-Pandas-연습_튜토리얼 1~20](notebooks/2-Pandas-연습_튜토리얼_19Q.ipynb)
+      - [2-Pandas-연습_튜토리얼_21~43](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb.ipynb)
+      - 결과 [2-Pandas-연습_튜토리얼_01_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43.ipynb)
+   2. [2-Pandas-연습-시각화matplot-20.ipynb](notebooks/2-Pandas-연습-시각화matplot-20Q.ipynb)
    <!--       - [2-Pandas-연습_튜토리얼_01_43_A.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43_A.ipynb)
        - [2-Pandas-연습-시각화matplot-20_A.ipynb](notebooks/2-Pandas-연습-시각화matplot-20_A.ipynb) -->
-   - 간단한 EDA
+   3. 간단한 EDA
        - [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
        - 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
        - 아래 *네이버 영화 평점변화* 분석을 이용해서 현재 크롤링한 네이버 영화 평점에 적용해 보세요
