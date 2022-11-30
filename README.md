@@ -70,11 +70,15 @@
 
 6. 파이썬
 
-실습에 좋은 사이트
+    [회오리바람을 탄 파이썬](https://github.com/rickiepark/WhirlwindTourOfPython)
+        - 쥬피터노트북
+ 
+7. 파이썬 실습에 좋은 사이트
   
-   - [왕초보를 위한 Python: 쉽게 풀어 쓴 기초 문법과 실습](https://wikidocs.net/book/2)
-   - [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
-   - [형식화 문자열](https://datascienceschool.net/01%20python/02.04%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%98%95%EC%8B%9D%ED%99%94.html)
+    - [왕초보를 위한 Python: 쉽게 풀어 쓴 기초 문법과 실습](https://wikidocs.net/book/2)
+    - [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
+    - [형식화 문자열](https://datascienceschool.net/01%20python/02.04%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%98%95%EC%8B%9D%ED%99%94.html)
+
 
 7. 일반
 
