@@ -41,6 +41,13 @@
     - [초심자를-위한-데이터-시각화 EDA](https://medium.com/bondata/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-eda-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%8B%A4%EC%8A%B5-62d11f93e17e)
     - source & data: [Teaching_in_GrowthHackers/Session 03. EDA & Data Visualization](https://github.com/BokyungChoi/teaching_in_GrowthHackers/tree/master/Session%2003.%20EDA%20%26%20Data%20Visualization)
 
+3. Pandas & Matplotlib 연습
+   - [2-Pandas-연습_튜토리얼 1~20](notebooks/2-Pandas-연습_튜토리얼_19Q.ipynb)
+   - [2-Pandas-연습_튜토리얼_21~43](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb.ipynb)
+   - [2-Pandas-연습-시각화matplot-20.ipynb](notebooks/2-Pandas-연습-시각화matplot-20Q.ipynb)
+   <!--       - [2-Pandas-연습_튜토리얼_01_43_A.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43_A.ipynb)
+       - [2-Pandas-연습-시각화matplot-20_A.ipynb](notebooks/2-Pandas-연습-시각화matplot-20_A.ipynb) -->
+
 
 ## "11/29"일 과제
 
