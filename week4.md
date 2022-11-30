@@ -47,17 +47,19 @@
    - [2-Pandas-연습-시각화matplot-20.ipynb](notebooks/2-Pandas-연습-시각화matplot-20Q.ipynb)
    <!--       - [2-Pandas-연습_튜토리얼_01_43_A.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43_A.ipynb)
        - [2-Pandas-연습-시각화matplot-20_A.ipynb](notebooks/2-Pandas-연습-시각화matplot-20_A.ipynb) -->
+   - 간단한 EDA
+       - [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
+       - 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
+       - 아래 *네이버 영화 평점변화* 분석을 이용해서 현재 크롤링한 네이버 영화 평점에 적용해 보세요
+           - https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
 
-# 5. 간단한 EDA
-- [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
-- 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
-- 아래 *네이버 영화 평점변화* 분석을 이용해서 현재 크롤링한 네이버 영화 평점에 적용해 보세요
-    - https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
+# 5. Crawling과 Wordcloud 사용
 
+1. Selenium
+    - [데이터크롤링5-Selenium1-start_0.ipynb](notebooks/데이터크롤링5-Selenium1-start_0.ipynb)
+3. [Wordcloud_data.zip](notebooks/Wordcloud_data.zip)
+4. [Wordcloud사용.ipynb](notebooks/Wordcloud사용.ipynb)
 
-# 6. Selenium
-
-데이터크롤링5-Selenium1-start_0.ipynb
 
 
 <!--
