@@ -58,18 +58,25 @@
 
 1. Selenium
     - [데이터크롤링5-Selenium1-start_0.ipynb](notebooks/데이터크롤링5-Selenium1-start_0.ipynb)
-3. [Wordcloud_data.zip](notebooks/Wordcloud_data.zip)
-4. [Wordcloud사용.ipynb](notebooks/Wordcloud사용.ipynb)
+2. [Wordcloud사용.ipynb](notebooks/Wordcloud사용.ipynb)
+    - [Wordcloud_data.zip](notebooks/Wordcloud_data.zip)
+3. KRX 주식시세 크롤링
+    - requests 이용 POST 방식
+    - [데이터크롤링1-ex KRX종목시세 다운로드](notebooks/데이터크롤링1-exKRX종목시세다운로드.ipynb)
 
 
+# 6. 텍스트 마이닝
+
+자연어 처리 기술 개요 & 이해
+
+1. [텍스트마이닝1-01자연어처리기술개요.ipynb](notebooks/텍스트마이닝1-01자연어처리기술1-개요.ipynb)
+1. [텍스트마이닝2-01자연어처리(NLTK_KoNLPy)](notebooks/텍스트마이닝1-99NLTK_KoNLPy.ipynb)
 
 <!--
 6. 실습: 네이버영화랭킹 크롤링 결과 분석
  - 참고: https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
 
 3. "실습" Selenium 이용 클롤링과 데이터 수집
-4. KRX 주식시세 크롤링
-    - requests 이용 POST 방식
 -->
 
 
@@ -79,38 +86,6 @@
  - 서울시 CCTV 분석
  - 초심자를-위한-데이터-시각화 EDA
  - ***기프트콘** 있습니다.
-
----
-
-
-
-# 5. 텍스트 마이닝
-
-## 텍스트 마이닝 환경
-
-`텍스트마이닝1-01-Text_Mining.pdf`
- 
-## 자연어 처리 기술 개요 & 이해
-
-1. [텍스트마이닝1-01자연어처리기술개요.ipynb](!notebooks/텍스트마이닝1-01자연어처리기술1-개요.ipynb)
-2. [텍스트마이닝1-02자연어처리기술이해.ipynb](!notebooks/텍스트마이닝1-02자연어처리기술2-이해.ipynb)
-3. [텍스트마이닝1-03자연어처리기술3-단어수 세기.ipynb](!notebooks/텍스트마이닝1-03자연어처리기술3-단어수세기.ipynb)
-
-## NLTK & KoNLPy
-
-1. [텍스트마이닝2-01자연어텍스트처리(NLTK).ipynb](!notebooks/텍스트마이닝2-01자연어텍스트처리(NLTK).ipynb)
-2. [텍스트마이닝2-02한국어텍스트처리(KoNLPy).ipynb](!notebooks/텍스트마이닝2-02한국어텍스트처리(KoNLPy).ipynb)
-3. [텍스트마이닝2-03한국어텍스트처리_어려운이유.ipynb](!notebooks/텍스트마이닝2-03한국어텍스트처리_어려운이유.ipynb)
-
-
-## 텍스트 처리 실습
-
-1. ex 텍스트 파일 이용 빈도 분석:
-   - [정규표현식-simple.ipynb](!notebooks/정규표현식-simple.ipynb)
-   - [텍스트마이닝2-04ex텍스트처리-0.ipynb](!notebooks/텍스트마이닝2-04ex텍스트처리-0.ipynb)
-
-3. 크롤링 이용 빈도 분석:
-   - [텍스트마이닝1-05ex연설문_경제뉴스크롤링.ipynb](!notebooks/텍스트마이닝2-05ex연설문_경제뉴스-빈도분석.ipynb)
 
 
 ---
