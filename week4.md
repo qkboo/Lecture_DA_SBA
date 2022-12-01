@@ -65,6 +65,7 @@
       - [2-Pandas-연습_튜토리얼_21~43](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb.ipynb)
       - 결과 [2-Pandas-연습_튜토리얼_01_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43.ipynb)
    2. [2-Pandas-연습-시각화matplot-20.ipynb](notebooks/2-Pandas-연습-시각화matplot-20Q.ipynb)
+      - 결과 [2-Pandas-연습-시각화matplot-20_A.ipynb](notebooks/2-Pandas-연습-시각화matplot-20_A.ipynb)
 
 
 3. 간단한 EDA
