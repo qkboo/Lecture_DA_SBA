@@ -65,13 +65,12 @@
       - [2-Pandas-연습_튜토리얼_21~43](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb.ipynb)
       - 결과 [2-Pandas-연습_튜토리얼_01_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43.ipynb)
    2. [2-Pandas-연습-시각화matplot-20.ipynb](notebooks/2-Pandas-연습-시각화matplot-20Q.ipynb)
-   <!--       - [2-Pandas-연습_튜토리얼_01_43_A.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43_A.ipynb)
-       - [2-Pandas-연습-시각화matplot-20_A.ipynb](notebooks/2-Pandas-연습-시각화matplot-20_A.ipynb) -->
+
+
 3. 간단한 EDA
    - [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
    - 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
-   - 아래 *네이버 영화 평점변화* 분석을 이용해서 현재 크롤링한 네이버 영화 평점에 적용해 보세요
-       - https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
+   - 실습: 유튜브 랭킹 크롤링과 분석[데이터크롤링5-ex유튜브0.ipynb](notebooks/데이터크롤링5-ex유튜브0.ipynb)
 <!--
 6. 실습: 네이버영화랭킹 크롤링 결과 분석
  - 참고: https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
@@ -79,6 +78,9 @@
 3. "실습" Selenium 이용 클롤링과 데이터 수집
 -->
 
+---
+
+# 과제
 
 ## "11/29"일 과제
 
@@ -86,6 +88,12 @@
  - 서울시 CCTV 분석
  - 초심자를-위한-데이터-시각화 EDA
  - ***기프트콘** 있습니다.
+
+
+## "12/01" 과제
+
+- 아래 *네이버 영화 평점변화* 분석을 이용해서 현재 크롤링한 네이버 영화 평점에 적용해 보세요
+   - https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
 
 
 ---
