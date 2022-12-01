@@ -29,32 +29,7 @@
 4. Wordcloud: https://pinkwink.kr/1029
 
 
-
-# 4. "실습"
-1. 실습:
-    - https://github.com/PinkWink/DataScience/
-    - 서울시 CCTV 분석: [서울시 구별 CCTV 현황 분석하기](https://github.com/PinkWink/DataScience/blob/master/source_code/01.%20Basic%20of%20Python%2C%20Pandas%20and%20Matplotlib%20%20via%20analysis%20of%20CCTV%20in%20Seoul.ipynb)
-    - [01. CCTV_in_Seoul.csv](https://github.com/PinkWink/DataScience/blob/master/data/01.%20CCTV_in_Seoul.csv)
-    - [01. population_in_Seoul.xls](https://github.com/PinkWink/DataScience/blob/master/data/01.%20population_in_Seoul.xls)
-
-2. 실습:
-    - [초심자를-위한-데이터-시각화 EDA](https://medium.com/bondata/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-eda-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%8B%A4%EC%8A%B5-62d11f93e17e)
-    - source & data: [Teaching_in_GrowthHackers/Session 03. EDA & Data Visualization](https://github.com/BokyungChoi/teaching_in_GrowthHackers/tree/master/Session%2003.%20EDA%20%26%20Data%20Visualization)
-
-3. Pandas & Matplotlib 연습
-   1. [2-Pandas-연습_튜토리얼 1~20](notebooks/2-Pandas-연습_튜토리얼_19Q.ipynb)
-      - [2-Pandas-연습_튜토리얼_21~43](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb.ipynb)
-      - 결과 [2-Pandas-연습_튜토리얼_01_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43.ipynb)
-   2. [2-Pandas-연습-시각화matplot-20.ipynb](notebooks/2-Pandas-연습-시각화matplot-20Q.ipynb)
-   <!--       - [2-Pandas-연습_튜토리얼_01_43_A.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43_A.ipynb)
-       - [2-Pandas-연습-시각화matplot-20_A.ipynb](notebooks/2-Pandas-연습-시각화matplot-20_A.ipynb) -->
-   3. 간단한 EDA
-       - [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
-       - 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
-       - 아래 *네이버 영화 평점변화* 분석을 이용해서 현재 크롤링한 네이버 영화 평점에 적용해 보세요
-           - https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
-
-# 5. Crawling과 Wordcloud 사용
+# 4. Crawling과 Wordcloud 사용
 
 1. Selenium
     - [데이터크롤링5-Selenium1-start_0.ipynb](notebooks/데이터크롤링5-Selenium1-start_0.ipynb)
@@ -65,13 +40,38 @@
     - [데이터크롤링1-ex KRX종목시세 다운로드](notebooks/데이터크롤링1-exKRX종목시세다운로드.ipynb)
 
 
-# 6. 텍스트 마이닝
+# 5. 텍스트 마이닝
 
 자연어 처리 기술 개요 & 이해
 
 1. [텍스트마이닝1-01자연어처리기술개요.ipynb](notebooks/텍스트마이닝1-01자연어처리기술1-개요.ipynb)
 1. [텍스트마이닝2-01자연어처리(NLTK_KoNLPy)](notebooks/텍스트마이닝1-99NLTK_KoNLPy.ipynb)
 
+
+
+# "실습"
+1. PANDAS 실습:
+    - https://github.com/PinkWink/DataScience/
+    - 서울시 CCTV 분석: [서울시 구별 CCTV 현황 분석하기](https://github.com/PinkWink/DataScience/blob/master/source_code/01.%20Basic%20of%20Python%2C%20Pandas%20and%20Matplotlib%20%20via%20analysis%20of%20CCTV%20in%20Seoul.ipynb)
+    - [01. CCTV_in_Seoul.csv](https://github.com/PinkWink/DataScience/blob/master/data/01.%20CCTV_in_Seoul.csv)
+    - [01. population_in_Seoul.xls](https://github.com/PinkWink/DataScience/blob/master/data/01.%20population_in_Seoul.xls)
+
+2. EDA 실습:
+    - [초심자를-위한-데이터-시각화 EDA](https://medium.com/bondata/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8B%9C%EA%B0%81%ED%99%94-eda-%EA%B0%80%EC%9D%B4%EB%93%9C%EB%9D%BC%EC%9D%B8-%EC%8B%A4%EC%8A%B5-62d11f93e17e)
+    - source & data: [Teaching_in_GrowthHackers/Session 03. EDA & Data Visualization](https://github.com/BokyungChoi/teaching_in_GrowthHackers/tree/master/Session%2003.%20EDA%20%26%20Data%20Visualization)
+
+3. Pandas & Matplotlib 연습
+   1. [2-Pandas-연습_튜토리얼 1~20](notebooks/2-Pandas-연습_튜토리얼_19Q.ipynb)
+      - [2-Pandas-연습_튜토리얼_21~43](notebooks/2-Pandas-연습_튜토리얼_20Q_43.ipynb.ipynb)
+      - 결과 [2-Pandas-연습_튜토리얼_01_43.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43.ipynb)
+   2. [2-Pandas-연습-시각화matplot-20.ipynb](notebooks/2-Pandas-연습-시각화matplot-20Q.ipynb)
+   <!--       - [2-Pandas-연습_튜토리얼_01_43_A.ipynb](notebooks/2-Pandas-연습_튜토리얼_01_43_A.ipynb)
+       - [2-Pandas-연습-시각화matplot-20_A.ipynb](notebooks/2-Pandas-연습-시각화matplot-20_A.ipynb) -->
+3. 간단한 EDA
+   - [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
+   - 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
+   - 아래 *네이버 영화 평점변화* 분석을 이용해서 현재 크롤링한 네이버 영화 평점에 적용해 보세요
+       - https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
 <!--
 6. 실습: 네이버영화랭킹 크롤링 결과 분석
  - 참고: https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
