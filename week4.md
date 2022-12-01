@@ -72,6 +72,8 @@
    - [EDA 데이터분석이란](notebooks/5_02EDA데이터분석이란.ipynb)
    - 실습: [EDA-ex-Diabetes_Data_Preprocessing_for_AI(sklearn).ipynb](notebooks/5_01EDA-Data_Preprocessing_for_AI(sklearn).ipynb)
    - 실습: 유튜브 랭킹 크롤링과 분석[데이터크롤링5-ex유튜브0.ipynb](notebooks/데이터크롤링5-ex유튜브0.ipynb)
+       - 결과 [데이터크롤링5-ex유튜브-A.ipynb](notebooks/데이터크롤링5-ex유튜브-A.ipynb)
+
 <!--
 6. 실습: 네이버영화랭킹 크롤링 결과 분석
  - 참고: https://github.com/PinkWink/DataScience/blob/master/source_code/03-2.%20Naver%20Movie%20Rank.ipynb
