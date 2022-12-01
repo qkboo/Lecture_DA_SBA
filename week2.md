@@ -84,3 +84,7 @@
  - 텍스트 파일 여부: 'python check if file is text or binary'
  - https://stackoverflow.com/questions/898669/how-can-i-detect-if-a-file-is-binary-non-text-in-python
  - `파일명 : 단어수` 형식 출력
+
+
+# 참고
+ - [형식화 문자열](https://datascienceschool.net/01%20python/02.04%20%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%ED%98%95%EC%8B%9D%ED%99%94.html)
