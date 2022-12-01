@@ -75,7 +75,7 @@
     - [데이터 과학/파이썬, 동국대학교](http://bigdata.dongguk.ac.kr/lectures/datascience/_book/index.html)
     - [왕초보를 위한 Python: 쉽게 풀어 쓴 기초 문법과 실습](https://wikidocs.net/book/2)
     - [초보자를 위한 파이썬 300제](https://wikidocs.net/book/922)
-
+    - [파이썬 통계](https://partrita.github.io/posts/thinkstat2/)
 
 7. 일반
 
