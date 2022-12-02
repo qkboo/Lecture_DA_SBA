@@ -36,7 +36,7 @@
 2. [Wordcloud사용.ipynb](notebooks/Wordcloud사용.ipynb)
     - [Wordcloud_data.zip](notebooks/Wordcloud_data.zip)
 3. KRX 주식시세 크롤링
-    - [데이터크롤링1-ex KRX종목시세 다운로드](notebooks/데이터크롤링1-exKRX종목시세다운로드.ipynb)
+    - [데이터크롤링1-ex KRX종목시세 다운로드](notebooks/데이터크롤링1-exKRX종목시세운로드A.ipynb)
     - [데이터크롤링1-ex KRX API: 공시](notebooks/데이터크롤링1-exKRX-공시basic-0.ipynb)
 
 
