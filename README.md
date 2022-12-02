@@ -1,7 +1,5 @@
 # AI 엔지니어 부트캠프
 
-<img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png' width=300>
-
 이름 | 깃헙 | 이름 | 깃헙
 -------- | ---------------- | ------- | -------------------
 김꿈새 | https://github.com/kkumsae | 김예원 | https://github.com/potatowon
@@ -17,6 +15,8 @@
 <br>
 
 # [Week1: 파이썬 과 개발환경](week1.md)
+
+<img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png' width=300>
 
 - 빅데이터와 AI 개발 소개, 컴퓨터 구조 이해, 개발환경 이해 (OS와 SDK), 
 - 파이썬 개발환경/설치/쥬피터노트북/윈도우즈 파이썬 가상 개발환경 이해
