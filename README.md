@@ -64,6 +64,7 @@
       - [git 발전: reset](https://backlog.com/git-tutorial/kr/stepup/stepup7_3.html)
     - [한글 pro git](https://git-scm.com/book/ko/v2)
     - github 튜토리얼: https://backlog.com/git-tutorial/kr/
+    - [github 에 참여자 추가 / Pull request & merge](https://gist.github.com/qkboo/80339ae44d206caf4c867985f0015753)
 
 
 3. github 활용 취업
