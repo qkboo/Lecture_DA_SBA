@@ -20,7 +20,7 @@
 세얼간이<img src='https://img1.daumcdn.net/thumb/R1280x0/?fname=http://t1.daumcdn.net/brunch/service/user/6CW2/image/h2wOGfq2TQPBgWmpy17JXd_fgMM.jpg' width=100> <br> e-commerce 행동 데이터 | https://github.com/ssolllll/1205_09_Project
 고무고무<img src='https://static.inven.co.kr/image_2011/site_image/game/minidata/84/character_0005_c1.jpg' width=100><br>코로나 상황 코스피 급등 요인 분석. | https://github.com/leeAnalyst/KOSPI-Prj
 대기만성<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDPHpnQt8E7JATMoACssXbLHgDKZ_yEzSFA&usqp=CAU' width=100><br>지하철 승차 밀집도/코로나 이전 이후 혼잡도 | https://github.com/tusker4/project-subway
-뿌셔뿌셔<img src='https://contents.lotteon.com/itemimage/LO/16/64/41/22/54/_1/66/44/12/25/5/LO1664412254_1664412255_1.jpg/dims/optimize/dims/resizemc/400x400' width=100> <br>'버거지수'가 유효한 지수인지 분석한다. | https://github.com/EunkyoungKimm/BurgerIndex_Project
+뿌셔뿌셔<img src='https://img.danawa.com/prod_img/500000/531/705/img/4705531_1.jpg?shrink=330:330&_v=20200427145624' width=100> <br>'버거지수'가 유효한 지수인지 분석한다. | https://github.com/EunkyoungKimm/BurgerIndex_Project
 
 <br>
 
