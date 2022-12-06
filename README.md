@@ -21,11 +21,11 @@
 고무고무<img src='https://static.inven.co.kr/image_2011/site_image/game/minidata/84/character_0005_c1.jpg' width=100><br>코로나 상황 코스피 급등 요인 분석. | https://github.com/leeAnalyst/KOSPI-Prj
 대기만성<img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKDPHpnQt8E7JATMoACssXbLHgDKZ_yEzSFA&usqp=CAU' width=100><br>지하철 승차 밀집도/코로나 이전 이후 혼잡도 | https://github.com/tusker4/project-subway
 뿌셔뿌셔<img src='https://img.danawa.com/prod_img/500000/531/705/img/4705531_1.jpg?shrink=330:330&_v=20200427145624' width=100> <br>'버거지수'가 유효한 지수인지 분석한다. | https://github.com/EunkyoungKimm/BurgerIndex_Project
+A <img src='https://cdn.pixabay.com/photo/2016/10/02/00/53/a-1708752_1280.png' width=100><br> 기온 분석/ 목표: 기온상승 요인 분석 | https://github.com/jinseo347/project-A
+거북이 <img src='http://res.heraldm.com/content/image/2020/03/10/20200310000043_0.jpg' width=100> <br>공공자전거 적자 분석/자전거 회수/관리 제안 | https://github.com/aiexplorer515/seoulbike_turtles
+
 
 <br>
-
-
-
 
 # [Week1: 파이썬 과 개발환경](week1.md)
 
