@@ -25,6 +25,14 @@ A: 이진서. 주제: 기온 목표: 기온상승 분석.
 
 ## Day2
 
+
+ - "버거 지수"는 진짜 도시의 발전 수준을 반영할까? by Hyeshik on Dec 26, 2014
+ - http://nbviewer.jupyter.org/gist/hyeshik/cf9f3d7686e07eedbfda?revision=6
+
+워드클라우드 갤러리
+ - https://amueller.github.io/word_cloud/auto_examples/parrot.html#
+
+
 ## Day3
 
 ## Day4
