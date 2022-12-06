@@ -17,9 +17,10 @@
 
 팀 | URL
 ----------- | --------------------------------
-세얼간이 | https://github.com/ssolllll/1205_09_Project
-고무고무 | https://github.com/leeAnalyst/KOSPI-Prj
-
+세얼간이<br> e-commerce 행동 데이터 | https://github.com/ssolllll/1205_09_Project
+고무고무<br>코로나 상황 코스피 급등 요인 분석. | https://github.com/leeAnalyst/KOSPI-Prj
+대기만성<br>지하철 승차 밀집도/코로나 이전 이후 혼잡도 | https://github.com/tusker4/project-subway
+뿌셔뿌셔<br>'버거지수'가 유효한 지수인지 분석한다. | https://github.com/EunkyoungKimm/BurgerIndex_Project
 
 <br>
 
