@@ -1,13 +1,16 @@
 # AI 엔지니어 부트캠프
 
-이름 | 깃헙 | 이름 | 깃헙 | 이름 | 깃헙
--------- | ---------------- | ------- | ------------------- | ------- | -------------------
-김꿈새 | https://github.com/kkumsae | 김예원 | https://github.com/potatowon | 김혜진 | https://github.com/jinijini123 
-김은경 | https://github.com/EunkyoungKimm | 김시현 | https://github.com/seanmkm  | 김종현 | https://github.com/Kimjong127
-남성희 | https://github.com/tusker4 | 정성범 | https://github.com/jsb0621 | 박현준 | https://github.com/ekto7957
-백경희 | https://github.com/aiexplorer515 | 송한솔 | https://github.com/ssolllll | 이진서 | https://github.com/jinseo347
-윤혜림 | https://github.com/h-limmm | 이수지 | https://github.com/en7HUS1asm | 송준호 | https://github.com/junhosong0
-오승재 | https://github.com/18-12847 | 장재준 | https://github.com/jaejun96 | 허인영 | https://github.com/jupytergit
+이름 | 깃헙 | 이름 | 깃헙 
+-------- | ---------------- | ------- | -------------------
+김꿈새 | https://github.com/kkumsae | 김예원 | https://github.com/potatowon 
+김혜진 | https://github.com/jinijini123  | 김은경 | https://github.com/EunkyoungKimm
+김시현 | https://github.com/seanmkm  | 김종현 | https://github.com/Kimjong127
+남성희 | https://github.com/tusker4 | 정성범 | https://github.com/jsb0621 
+박현준 | https://github.com/ekto7957 | 백경희 | https://github.com/aiexplorer515 
+송한솔 | https://github.com/ssolllll | 이진서 | https://github.com/jinseo347
+윤혜림 | https://github.com/h-limmm | 이수지 | https://github.com/en7HUS1asm
+송준호 | https://github.com/junhosong0 | 오승재 | https://github.com/18-12847 
+장재준 | https://github.com/jaejun96 | 허인영 | https://github.com/jupytergit
 
 
 #### Project
