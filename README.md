@@ -23,7 +23,7 @@
 뿌셔뿌셔<img src='https://img.danawa.com/prod_img/500000/531/705/img/4705531_1.jpg?shrink=330:330&_v=20200427145624' width=100> <br>'버거지수'가 유효한 지수인지 분석한다. | https://github.com/EunkyoungKimm/BurgerIndex_Project
 A <img src='https://cdn.pixabay.com/photo/2016/10/02/00/53/a-1708752_1280.png' width=100><br> 기온 분석/ 목표: 기온상승 요인 분석 | https://github.com/jinseo347/project-A
 거북이 <img src='http://res.heraldm.com/content/image/2020/03/10/20200310000043_0.jpg' width=100> <br>공공자전거 적자 분석/자전거 회수/관리 제안 | https://github.com/aiexplorer515/seoulbike_turtles
-공조 <img src='https://mblogthumb-phinf.pstatic.net/MjAxNzAxMzBfNjUg/MDAxNDg1NzUyMjQ3OTc1.k3PNFCCmwLalIxM0nLuNYXvpOGwwwKqUIdgu66a2W-0g.O2pWcNWEb9vc7un4WPW2Jy8Pg35eLajWswmP02n7YlEg.JPEG.durladurla/%EC%98%81%ED%99%94%EA%B3%B5%EC%A1%B0_3%EB%AA%85.jpg?type=w2' width=100> <br>kaggle 넷플릭스 데이터 | https://github.com/jsb0621/gongzo_netflix
+공조 <img src='https://image.newdaily.co.kr/site/data/img/2019/04/29/2019042900024_0.jpg' width=100> <br>kaggle 넷플릭스 데이터 | https://github.com/jsb0621/gongzo_netflix
 열매열매 <img src='https://previews.123rf.com/images/usersam2007/usersam20071206/usersam2007120600013/13995063-%E7%94%98%E6%9E%9C%E3%82%AA%E3%82%A6%E3%83%88%E3%82%A6%E6%9E%9C%E5%AE%9F%E7%99%BD%E3%81%84%E8%83%8C%E6%99%AF%E3%81%A7%E9%9A%94%E9%9B%A2.jpg' width=100> <br>네이버 뉴스 순위 | https://github.com/potatowon/SBA_mini_Project
 
 <br>
