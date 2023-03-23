@@ -29,7 +29,7 @@ A <img src='https://cdn.pixabay.com/photo/2016/10/02/00/53/a-1708752_1280.png' w
 
 <br>
 
-# [Week1: 파이썬 과 개발환경](week1.md)
+# [Week1: 파이썬 과 개발환경](notebooks/week1.md)
 
 <img src='https://www.python.org/static/community_logos/python-logo-master-v3-TM.png' width=300>
 
@@ -39,28 +39,28 @@ A <img src='https://cdn.pixabay.com/photo/2016/10/02/00/53/a-1708752_1280.png' w
 - Visual Studio Code 사용, Jupyter Notebook 이해, Markdown 사용
 - 파이썬 기본 : 변수와 객체, 조건문/반복문
 
-# [Week2: 파이썬2](week2.md)
+# [Week2: 파이썬2](notebooks/week2.md)
 
 - 파일 / Module Package
 - 객체지향, 클래스, 클래스 상속
 - Function / Deocorator
 - 프로젝트
 
-# [Week3: Http네트워크 / 크롤링 / 데이터 처리 ](week3.md)
+# [Week3: Http네트워크 / 크롤링 / 데이터 처리 ](notebooks/week3.md)
 
 - HTTP / HTML / CSS / MIME Type
 - Requests / Beautifulsoup / Selenium
 - NumPy, Pandas, Matplotlib, Seaborn
 
 
-# [Week4: 데이터 분석 / 텍스트 마이닝](week4.md)
+# [Week4: 데이터 분석 / 텍스트 마이닝](notebooks/week4.md)
 
 - NumPy, Pandas, Matplotlib, Seaborn
 - 공공데이터 구축
 - 공공데이터 분석
 
 
-# [Week5: 서울시 등 공공데이터 기반 분석 프로젝트](week5.md)
+# [Week5: 서울시 등 공공데이터 기반 분석 프로젝트](notebooks/week5.md)
  - 팀별 공공데이터 활용 프로젝트 수행
 
 
