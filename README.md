@@ -64,6 +64,10 @@ A <img src='https://cdn.pixabay.com/photo/2016/10/02/00/53/a-1708752_1280.png' w
  - 팀별 공공데이터 활용 프로젝트 수행
 
 
+# 프로젝트 (`2023/3/24~3/31, 4/11~4/13`)
+ - https://github.com/qkboo/Lecture_DA_SBA/tree/master/portfolio_project
+
+
 <br>
 
 ---
