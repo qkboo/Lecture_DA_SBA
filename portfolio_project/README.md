@@ -13,6 +13,8 @@
 
   2. MySQL 관련 정리 잘된 곳:
   
+      - [MySQL SQL Tutorials](https://bipp.io/sql-tutorial/mysql/)
+      - [MySQL SQL Tutorial, w3schoools]*https://www.w3schools.com/MySQL/default.asp)
       - SQL 연습을 위해 아래 내용도 MySQL로 구현해 보면 좋음.
          - [SQLite3로 가볍게 배우는 데이터베이스: SQL 기초 실습](https://wikidocs.net/book/1530)
       - MySQL Unsafe update 해제: https://wikidocs.net/45335
