@@ -13,8 +13,11 @@
 
   2. MySQL 관련 정리 잘된 곳:
   
-    - SQL 연습을 위해 아래 내용도 MySQL로 구현해 보면 좋음.
-       - [SQLite3로 가볍게 배우는 데이터베이스: SQL 기초 실습](https://wikidocs.net/book/1530)
+      - SQL 연습을 위해 아래 내용도 MySQL로 구현해 보면 좋음.
+         - [SQLite3로 가볍게 배우는 데이터베이스: SQL 기초 실습](https://wikidocs.net/book/1530)
+      - MySQL Unsafe update 해제: https://wikidocs.net/45335
+      - MySQL 튜토리얼1: https://velog.io/@may_soouu/mysql-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC
+ 
 
 # 2. 마켓 데이터
 
