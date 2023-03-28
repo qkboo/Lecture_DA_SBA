@@ -41,9 +41,7 @@
         - datagokr-통합국가자산매각.ipynb
 
 
+# 3. GUI / Android
 
+    - Android SDK 설치: https://bit.ly/3LYKWl2
 
-# 3. 투자전략
-
-  1. 투자전략/퀀트
-  2. 시뮬레이션 / 로보어드바이저
